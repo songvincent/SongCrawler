@@ -6,6 +6,6 @@
 爬取政策察察通，其中拥有自动下拉刷新页面的能力(https://github.com/songvincent/CrawlerChaCha)
 
 ### ShanDongQZCrawler
-爬取山东政务服务网的权责清单 (https://github.com/songvincent/CrawlerChaCha)
+爬取山东政务服务网的权责清单 (https://github.com/songvincent/ShanDongQZCrawler)
 
-### 具体信息见各自的repo
+#### 具体信息见各自的repo
