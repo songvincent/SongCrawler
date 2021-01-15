@@ -8,4 +8,7 @@
 ### ShanDongQZCrawler
 爬取山东政务服务网的权责清单 (https://github.com/songvincent/ShanDongQZCrawler)
 
+### case_info_public
+爬取案件信息公开网的法律文书(https://github.com/songvincent/case_info_public)
+
 #### 具体信息见各自的repo
